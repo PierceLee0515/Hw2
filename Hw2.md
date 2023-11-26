@@ -1,3 +1,8 @@
+<h1>Hw2</h1>
+
+```swift
+ 
+ 
  import SwiftUI
 
 struct ContentView: View {
@@ -51,4 +56,4 @@ struct ContentView: View {
     }
 }
 
-
+```
